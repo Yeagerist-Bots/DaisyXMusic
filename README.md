@@ -52,5 +52,5 @@
 
 ### Credits
 - [CallsMusic](https://github.com/callsmusic/callsmusic) ~ This is the original Repo! ❤️
-- [Achubiju] (https://github.com/Achu2234) devopler
-- [DaisyX] (https://github.com/TeamDaisyX)
+- [Achubiju](https://github.com/Achu2234) devopler
+- [DaisyX](https://github.com/TeamDaisyX)
