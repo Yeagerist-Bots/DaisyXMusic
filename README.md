@@ -45,11 +45,9 @@
 - `/admincache` - Refresh admin list
 
 
-### Deploy To Heroku</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yeagerist-Bots/ykbotmusicvr3)
- [repl](https://replit.com/@IamHirusha/GetPyroSessionVC)
 
+ 
 ### Credits
 - [CallsMusic](https://github.com/callsmusic/callsmusic) ~ This is the original Repo! ❤️
 - [Achubiju](https://github.com/Achu2234) devopler
