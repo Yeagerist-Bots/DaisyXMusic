@@ -1,11 +1,11 @@
-<h1 align="centre">DAISYXMUSIC V3 🎵</h1>
+<h1 align="centre">Yeagerist Music Streamer BotV3 🎵</h1>
 
 ### A bot that can play music on telegram group's voice call
 
-# Available on telegram as @DaisyXbot
+# Available on telegram as @YeageristMusic_bot
 
 <p align="center">
-  <img src="https://telegra.ph/file/dd04b1968f1bc1169d162.jpg">
+  <img src="https://telegra.ph/file/07e17176fcdb30f9b4104.jpg">
 </p>
 
 <h2> Whats new 🔥 </h2>
@@ -48,17 +48,9 @@
 ### Deploy To Heroku</h4>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yeagerist-Bots/ykbotmusicvr3)
-
-Use [@DaisyXStringGeneratorBot](https://t.me/DaisyXStringGeneratorBot) to get pyrogram string session or [repl](https://repl.it/@SpEcHiDe/GenerateStringSession)
+ [repl](https://replit.com/@IamHirusha/GetPyroSessionVC)
 
 ### Credits
-- [InukaASiTH](https://github.com/InukaAsith): Dev
-- [Wrench](https://github.com/EverythingSuckz/): Dev
-- [QueenArzoo](https://github.com/QueenArzoo): Dev
-- [lucifeermorningstar](https://github.com/lucifeermorningstar): Dev
-- [AuraXNetwork](https://github.com/AuraXNetwork/AuraXMusicBot)
-- [Hamker Cat](https://github.com/thehamkercat/)
-- [Anjana-Ma](https://github.com/Anjana-Ma): 
-- [ImJanindu](https://github.com/ImJanindu): 
-- [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
-- [Original Repo owners](https://github.com/suprojects/CallsMusic)
+- [CallsMusic](https://github.com/callsmusic/callsmusic) ~ This is the original Repo! ❤️
+- [Achubiju] (https://github.com/Achu2234) devopler
+- [DaisyX] (https://github.com/TeamDaisyX)
